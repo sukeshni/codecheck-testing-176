@@ -1,0 +1,30 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-check/fizzbuzz.git"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "cli"
+  ],
+  "author": "Givery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-check/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/code-check/fizzbuzz#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "codecheck": "^0.5.3"
+  }
+}
